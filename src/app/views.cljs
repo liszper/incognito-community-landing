@@ -127,7 +127,7 @@
            [:h3 "How secure is using Incognito?"]
            [:p "You hold your own private keys on your wallet. Always make a backup and store an offline copy of your private keys to be safe! Incognito doesn’t have an access to your accounts and cannot recover them."]]
           [:div (anim "fadeInUp" ".4s")
-           [:h3 "What nis the future of Incognito?"]
+           [:h3 "What is the future of Incognito?"]
            [:p "A decentralized autonomous organization was designed to fund protocol development and network growth. Join the Incognito community now and you will be a part of this revolutionary movement. You could make proposals and get funding!"]]]]]])
 
 (defc partners []
